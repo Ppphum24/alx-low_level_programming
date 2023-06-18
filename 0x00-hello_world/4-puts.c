@@ -1,11 +1,12 @@
-#include <studio.h>
+#include <stdio.h>
 /**
- * main - A program that prints the code with puts fuction
- * return: 0
+ * main - A program that prints the code with puts function
+ * Return:0 (the code was executed with no errors)
  */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
-return:(0);
+return (0);
 }
+
 
