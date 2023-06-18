@@ -1,6 +1,6 @@
 /**
- * main - A program that prints the size of various computer type
- * Return 0 (Success)
+ * main - Entry point
+ * Return: 0 (Success)
  */
 int main(void)
 {
@@ -15,3 +15,4 @@ printf("Size of a char:%lu byte(s)\n", (unsigned long)sizeof(c));
 printf("Size of a char:%lu byte(s)\n", (unsigned long)sizeof(d));
 printf("Size of a char:%lu byte(s)\n", (unsigned long)sizeof(f));
 return (0);
+}
